@@ -93,3 +93,59 @@
 }
 
 /* ROW-2 CSS End*/
+
+/* Row-3 CSS start*/
+
+#row3{
+    background-image: url(https://media.istockphoto.com/id/1434054606/photo/traveler-backpacker-girl-is-watching-hot-air-balloons-and-the-fairy-chimneys-at-cappadocia.jpg?s=1024x1024&w=is&k=20&c=ndYV39iBotv4DTsLGmlgxVnNyQ0cbFxO2sNFnY4c3mE=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat: round;
+    height: 500px;
+    width:100%;
+    position: relative;
+}
+.overplay3{
+    height: 100%;
+    width: 100%;
+    background: rgba(0,0,0,.7);
+    position: absolute;
+
+}
+.banner-section{
+    text-align: center;
+    color: rgb(223, 46, 199);
+    position: absolute;
+    width: 100%;
+    margin: 0 auto;
+}
+.banner-content{
+}
+.banner-content h1{
+    text-transform: uppercase;
+    font-size:50px;
+    line-height:70px;
+    padding-top: 100px;
+}
+.banner-content  p{
+    font-size:18px;
+    font-weight:600;
+    margin-bottom: 40px;
+}
+.banner-button{}
+.banner-button button{
+    padding: 10px 20px;
+    background:#999;
+    border:2px solid #fff;
+    color:#fff;
+    text-transform: uppercase;
+    border-radius: 3px;
+    margin-right: 10px;
+}
+.banner-button button:hover{
+    background-color: #455964;
+    transition: 1s;
+}
+
+
+/*Row-3 CSS end*/
