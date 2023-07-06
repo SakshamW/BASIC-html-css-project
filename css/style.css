@@ -3,6 +3,7 @@
     margin: 0;
 
 }
+/* ROW-1 CSS Start*/
 .row-1{
       background-color: #35363A;
       height: 30px;
@@ -44,3 +45,51 @@
     padding-right: 8px;
 
 }
+/* ROW-1 CSS End*/
+
+/* ROW-2 CSS Start*/
+       
+#row2{
+    height:80px;
+    width: 100%;
+    background-color: #fff;
+}
+.header-section{
+    width: 90%;
+    margin: 0px auto;
+
+}
+.logo{ 
+    width: 25%;
+    float: left;
+}
+.logo img{
+    height: 70px;
+    margin-top: 10px;
+}
+.menu{
+    width: 65%;
+    float: right;
+}
+.menu ul{}
+.menu ul li{
+    line-height: 80px;
+    float: left;
+    text-align: center;
+    width: 106px;
+    list-style: none;
+}
+.menu ul li a{
+    text-decoration:none;
+    text-transform: uppercase;
+    color: #455964;
+}
+.menu ul li i{
+    height: 40px;
+    width:40px;
+    border: 2px solid #455964;
+    border-radius: 100%;
+    line-height: 40px;
+}
+
+/* ROW-2 CSS End*/
