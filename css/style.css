@@ -215,3 +215,54 @@
 
 /*Row-4 CSS end*/
 
+/*Row-5 CSS start*/
+#row5{
+    height: 500px;
+    width:90%;
+    background-color: #fff;
+
+}
+.offer-section{
+    width: 90%;
+    margin: 0 auto;
+    
+}
+.offer-top{
+    text-align: center;
+    padding: 40px 0px;
+}
+.offer-top h2{}
+.offer-top p{}
+.offer-bottom{}
+.all-offer-item{}
+.offer-item{
+    width: 230px;
+    float: left;
+    margin-left: 40px;
+    border: 4px solid gray;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px;
+    padding: 5px;
+    transition: 1s;
+}
+.offer-item:hover{
+    transform: scale(1.2);
+}
+.offer-item img{
+    width: 100%;
+    height: 150px;
+}
+.offer-text{
+    width: 80%;
+    float: left;
+}
+.offer-text h3{}
+.offer-text h4{}
+.offer-icon{
+    width: 10%;
+    float: left;
+}
+.offer-icon i{}
+
+/*Row-5 CSS end*/
+
